@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://yoav-variel-gindi.zappy5.app
+די ג'יי טראנס לאירועים בישראל המובילים. הצטרפו לחוויה מוזיקלית בלתי נשכחת עם יואב ואריאל גינדי.
+
+### שירותים
+https://yoav-variel-gindi.zappy5.app/services
+גלו את השירותים המקצועיים שלנו: די ג'יי טראנס לאירועים בישראל, מוזיקת טכנו והאוס למסיבות, והופעות בפסטיבלים.
+
+### אודות
+https://yoav-variel-gindi.zappy5.app/about
+הכירו את יואב ואריאל גינדי - די ג'יי טראנס מקצועיים המתמחים במוזיקת טראנס, טכנו והאוס לאירועים בישראל.
+
+### צור קשר
+https://yoav-variel-gindi.zappy5.app/contact
+צרו קשר עם יואב ואריאל גינדי והזמינו די ג'יי טראנס לאירועים בישראל. נשמח לתכנן את החוויה המוזיקלית המושלמת לאירוע שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://yoav-variel-gindi.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yoav-variel-gindi.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yoav-variel-gindi.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://yoav-variel-gindi.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yoav-variel-gindi.zappy5.app/robots.txt
